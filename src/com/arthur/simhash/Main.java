@@ -2,7 +2,10 @@ package com.arthur.simhash;
 
 public class Main {
 
-	
+	/**
+	 * @author arthur503
+	 * @param argv
+	 */
 	public static void main(String[] argv){
 		String str1 = "this is string1";
 		String str2 = "this is string2";
